@@ -11,3 +11,5 @@ All examples are popular games. (Chess, TicTacToe, SeeBattle and etc)
 ##Chess
 
 ![ScreenShot](images/Chess.png)
+1. Сокобан. Тестовое задание. [#75283]
+[win socoban](https://github.com/as310788/games_oop_javafx/blob/master/images/win%20socoban.png)
