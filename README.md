@@ -15,5 +15,5 @@ All examples are popular games. (Chess, TicTacToe, SeeBattle and etc)
 [win socoban](https://github.com/as310788/games_oop_javafx/blob/master/images/win%20socoban.png)
 2. проверка тестом игра socoban
 [test](https://github.com/as310788/games_oop_javafx/blob/master/images/test%20socoban.png)
-3. 2. Каркас шахматной доски [#792]
-[chess](https://github.com/as310788/games_oop_javafx/blob/master/images/logic.png)
+3.2.Каркас шахматной доски[#792 #290850]
+[chess10](https://github.com/as310788/games_oop_javafx/blob/master/images/logic.png)
